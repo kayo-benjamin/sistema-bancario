@@ -1,23 +1,30 @@
-Sistema de Gerenciamento de Contas - KayoBank
-Bem-vindo ao repositório do KayoBank, um sistema simples de gerenciamento de contas. Este projeto permite adicionar, remover, pagar, listar e verificar o status de contas como água, energia, internet, aluguel, supermercado e outros tipos de despesas. O sistema também permite verificar as contas pendentes, atrasadas e calcular o total de pendências ou valores pagos.
+# KayoBank - Sistema de Gerenciamento de Contas
 
-Funcionalidades
-Adicionar Conta: Permite cadastrar uma nova conta com descrição, valor, data de vencimento e tipo.
-Remover Conta: Permite remover uma conta do sistema.
-Pagar Conta: Marca uma conta como paga.
-Listar Todas as Contas: Exibe todas as contas cadastradas.
-Listar Contas Pendentes: Exibe apenas as contas que ainda não foram pagas.
-Listar Contas Atrasadas: Exibe as contas que estão vencidas e não pagas.
-Calcular Pendências: Exibe o total de valores pendentes de pagamento.
-Calcular Contas Pagas: Exibe o total de valores pagos.
-Como Usar
-Clone o repositório para sua máquina local:
+## Descrição
 
-bash
-Copiar
-Editar
-git clone https://github.com/usuario/KayoBank.git
-cd KayoBank
-Compile e execute o projeto no Visual Studio ou qualquer outro ambiente que suporte C#.
+KayoBank é um sistema simples para o gerenciamento de contas, permitindo adicionar, remover, pagar, e listar contas de diferentes tipos, como água, energia, aluguel, supermercado, entre outros. O projeto foi desenvolvido em C# e tem como objetivo facilitar o controle financeiro de contas pessoais ou empresariais.
 
-No menu interativo, escolha a opção desejada, como Adicionar Conta, Pagar Conta, Listar Contas, etc.
+---
+
+## Funcionalidades
+
+- **Adicionar Conta**: Registra uma nova conta com descrição, valor, data de vencimento e tipo.
+- **Remover Conta**: Permite a exclusão de uma conta pelo seu ID.
+- **Pagar Conta**: Marca a conta como paga.
+- **Listar Contas**: Exibe todas as contas registradas.
+- **Contas Pendentes**: Lista as contas que ainda não foram pagas.
+- **Contas Atrasadas**: Exibe as contas cujo pagamento está atrasado.
+- **Total Pendentes**: Mostra o valor total das contas pendentes.
+- **Total Pagas**: Mostra o valor total das contas pagas.
+
+---
+
+## Tecnologias Usadas
+
+- **C#**: Linguagem de programação principal.
+- **Visual Studio**: IDE para desenvolvimento
+
+
+## Autores
+
+- [@kayo-benjamin](https://www.github.com/kayo-benjamin)
