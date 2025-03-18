@@ -1,0 +1,14 @@
+C:\Users\kayov\source\repos\KayoBank\KayoBank\bin\Debug\net8.0\KayoBank.exe
+C:\Users\kayov\source\repos\KayoBank\KayoBank\bin\Debug\net8.0\KayoBank.deps.json
+C:\Users\kayov\source\repos\KayoBank\KayoBank\bin\Debug\net8.0\KayoBank.runtimeconfig.json
+C:\Users\kayov\source\repos\KayoBank\KayoBank\bin\Debug\net8.0\KayoBank.dll
+C:\Users\kayov\source\repos\KayoBank\KayoBank\bin\Debug\net8.0\KayoBank.pdb
+C:\Users\kayov\source\repos\KayoBank\KayoBank\obj\Debug\net8.0\KayoBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kayov\source\repos\KayoBank\KayoBank\obj\Debug\net8.0\KayoBank.AssemblyInfoInputs.cache
+C:\Users\kayov\source\repos\KayoBank\KayoBank\obj\Debug\net8.0\KayoBank.AssemblyInfo.cs
+C:\Users\kayov\source\repos\KayoBank\KayoBank\obj\Debug\net8.0\KayoBank.csproj.CoreCompileInputs.cache
+C:\Users\kayov\source\repos\KayoBank\KayoBank\obj\Debug\net8.0\KayoBank.dll
+C:\Users\kayov\source\repos\KayoBank\KayoBank\obj\Debug\net8.0\refint\KayoBank.dll
+C:\Users\kayov\source\repos\KayoBank\KayoBank\obj\Debug\net8.0\KayoBank.pdb
+C:\Users\kayov\source\repos\KayoBank\KayoBank\obj\Debug\net8.0\KayoBank.genruntimeconfig.cache
+C:\Users\kayov\source\repos\KayoBank\KayoBank\obj\Debug\net8.0\ref\KayoBank.dll
